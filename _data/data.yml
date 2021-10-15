@@ -184,7 +184,7 @@ experiences:
           - Assisted the supervisor in directing and mentoring master students.
           - Supervised master students in experiment, writing and preparation of manuscript for publication.
           
-projects:
+Researcher Experience:
     title: Projects
     intro: >
       You can list your side projects or open source libraries in this
@@ -195,28 +195,6 @@ projects:
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed by TRI HO MINH LE
