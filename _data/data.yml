@@ -30,7 +30,7 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-        I am passionate about scientific research
+        I am passionate about scientific research.
     
 education:
     - degree: Ph.D. in Civil Engineering
@@ -173,7 +173,7 @@ experiences:
           - Profound knowledge and experiment research on multiple asphalt concrete/concrete types.
           - Perform laboratory binder rheological and chemical tests, aggregates characterization, mix design and performance tests.
           - Pavement conditioning and performance surveys.
-          - Expertise in: Abaqus, Matlab, Machine Learning, Python
+          - Expertise in: Abaqus, Matlab, Machine Learning, Python.
     - role: Teaching assistant 
       time: 2017 - Now
       details: |   
