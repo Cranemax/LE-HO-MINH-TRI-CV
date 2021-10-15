@@ -133,20 +133,21 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
+      - title: Feasibility Study of Locally Excavated Soil in Foamed Cement Mixture as Backfill Material for Abutments of Railway Bridges
+        link: "https://doi.org/10.1520/JTE20210169"
+        authors: Tri Ho Minh Le, Lee Tack Woo, Jung-Woo Seo, Dae-Wook Park
+        conference:  "(ASTM) Journal of Testing and Evaluation, 2021"
+    
       - title: Application of Flowable Soil as Sustainable Backfill for Railway Track Stiffness Reinforcement at Bridge Transition Zone
         link: "https://link.springer.com/chapter/10.1007%2F978-3-030-80152-6_7"
-        authors: Tri Ho Minh Le
-        conference:  Sustainable Civil Infrastructures, 2021
+        authors: Tack-Woo Lee, Tri Ho Minh Le, Daewook Park, Jung-Woo Seo
+        conference:  "Sustainable Civil Infrastructures, 2021"
 
       - title: "Investigation on the Performance of Railway Ballast Track Stabilized by Cement Asphalt Mortar"
         link: "https://link.springer.com/chapter/10.1007%2F978-3-030-79857-4_13"
-        authors: Le T.H.M., Lee SH., Park DW., Seo JW.
+        authors: Tri Ho Minh Le, Seong Hyeok Lee, Daewook Park, Jung-Woo Seo
         conference: "Sustainable Civil Infrastructures, 2021"
 
-      - title: Improvement on rheological property of asphalt binder using synthesized micro-encapsulation phase change material
-        link: "https://doi.org/10.1016/j.conbuildmat.2021.123021"
-        authors: Phan M.T, Park DW., Le H.M.T
-        conference: "Comm. ACM 4 (1961), 51–55"
         
 skills:
     title: Skills &amp; Proficiency
