@@ -54,9 +54,6 @@ education:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
       - title: Feasibility Study of Locally Excavated Soil in Foamed Cement Mixture as Backfill Material for Abutments of Railway Bridges
         link: "https://doi.org/10.1520/JTE20210169"
