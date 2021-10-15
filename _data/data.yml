@@ -15,7 +15,6 @@ sidebar:
     email: lehominhtri92@gmail.com
     phone: +82 10 4981 1032
     website: https://www.researchgate.net/profile/Tri-Le-9
-    researchgate: https://www.researchgate.net/profile/Tri-Le-9
     #pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
@@ -31,6 +30,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
+    
+    
  
 education:
     - degree: Ph.D. in Civil Engineering
@@ -38,51 +39,17 @@ education:
       time: 2017 - 2021
       details: |
         A Study on Full-Scale Testbed Performance and Numerical Analysis of Cement Asphalt Mortar for Railway Ballast Stabilization
-          - Bullet point
-          - Bullet point
     - degree: MSc in Civil Engineering
       university: Kunsan National University (South Korea)
       time: 2015 - 2017
       details: |
         Sustainable Backfill Material Using Coal Ash Recycling and Air-form Stabilization Technique
-          - Bullet point
-          - Bullet point
     - degree: BSc in Civil Engineering
       university: Ho Chi Minh City University of Technology
       time: 2010 - 2015
       details: |
         Experimental examination of Carbon Fiber Reinforcement Polymer (CFRP) strengthened reinforced concrete beams”.
-          - Bullet point
-          - Bullet point
-experiences:
-    - role: Civil Engineer
-      time: 2014 - 2015
-      company: Back Khoa Testing, Ho Chi Minh City, Viet Nam
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-
+        
 publications:
     title: Publications
     intro: |
@@ -98,12 +65,12 @@ publications:
       - title: Application of Flowable Soil as Sustainable Backfill for Railway Track Stiffness Reinforcement at Bridge Transition Zone
         link: "https://link.springer.com/chapter/10.1007%2F978-3-030-80152-6_7"
         authors: Tack-Woo Lee, Tri Ho Minh Le, Daewook Park, Jung-Woo Seo
-        conference:  " (conference proceeding) Sustainable Civil Infrastructures, 2021"
+        conference:  " (Conference proceeding) Sustainable Civil Infrastructures, 2021"
 
       - title: "Investigation on the Performance of Railway Ballast Track Stabilized by Cement Asphalt Mortar"
         link: "https://link.springer.com/chapter/10.1007%2F978-3-030-79857-4_13"
         authors: Tri Ho Minh Le, Seong Hyeok Lee, Daewook Park, Jung-Woo Seo
-        conference: "(conference proceeding) Sustainable Civil Infrastructures, 2021"
+        conference: "(Conference proceeding) Sustainable Civil Infrastructures, 2021"
         
       - title: Improvement on rheological property of asphalt binder using synthesized micro-encapsulation phase change material
         link: "https://doi.org/10.1016/j.conbuildmat.2021.123021"
@@ -199,6 +166,35 @@ publications:
         link: "https://doi.org/10.1016/j.conbuildmat.2017.02.100"
         authors: Jung-Woo Seo, Daewook Park, Tri Ho Minh Le
         conference: "Construction and Building Materials, 2018" 
+        
+experiences:
+    - role: Researcher
+      time: 2014 - Now
+      details: |
+          - Profound experience in writting academic paper.
+          - High self-research ability skill and prepare research proposal. 
+          - Have ability to conduct extensive laboratory binder and mixture testing, data analysis, report writing, and field traveling. 
+          - Profound knowledge and experiment research on multiple asphalt concrete/concrete types.
+          - Perform laboratory binder rheological and chemical tests, aggregates characterization, mix design and performance tests.
+          - Pavement conditioning and performance surveys.
+          - Expertise in: Abaqus, Matlab, Machine Learning, Python
+    - role: Teaching assistant 
+      time: 2017 - Now
+      details: |   
+          - Assisted the supervisor in directing and mentoring master students.
+          - Supervised master students in experiment, writing and preparation of manuscript for publication.
+          
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
 
 skills:
     title: Skills &amp; Proficiency
